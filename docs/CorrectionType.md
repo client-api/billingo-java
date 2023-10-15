@@ -1,0 +1,47 @@
+
+
+# CorrectionType
+
+## Enum
+
+
+* `ADVANCE` (value: `"advance"`)
+
+* `CANCELED` (value: `"canceled"`)
+
+* `CANCELLATION` (value: `"cancellation"`)
+
+* `CERT_OF_COMPLETION` (value: `"cert_of_completion"`)
+
+* `D_CERT_OF_COMPLETION` (value: `"d_cert_of_completion"`)
+
+* `DOSSIER` (value: `"dossier"`)
+
+* `DRAFT` (value: `"draft"`)
+
+* `DRAFT_OFFER` (value: `"draft_offer"`)
+
+* `DRAFT_ORDER_FORM` (value: `"draft_order_form"`)
+
+* `DRAFT_WAYBILL` (value: `"draft_waybill"`)
+
+* `INVOICE` (value: `"invoice"`)
+
+* `MODIFICATION` (value: `"modification"`)
+
+* `MODIFIED` (value: `"modified"`)
+
+* `OFFER` (value: `"offer"`)
+
+* `ORDER_FORM` (value: `"order_form"`)
+
+* `PROFORMA` (value: `"proforma"`)
+
+* `RECEIPT` (value: `"receipt"`)
+
+* `RECEIPT_CANCELLATION` (value: `"receipt_cancellation"`)
+
+* `WAYBILL` (value: `"waybill"`)
+
+
+
